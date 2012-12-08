@@ -1,4 +1,4 @@
-pdp
-===
+Development Methodology Model
+=============================
 
-Proposed Development Process
+This repo serves to host documents relevant to GAP's Development Methodology Model.
