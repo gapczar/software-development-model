@@ -1,4 +1,4 @@
 Development Methodology Model
 =============================
 
-This repo serves to host documents relevant to GAP's Development Methodology Model.
+Software development methodology model either proposed or accepted for GAP and by members of GoAbroadLabs.
