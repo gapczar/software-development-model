@@ -3,12 +3,15 @@ Software Development Model Proposal - 0
 
 ## Purpose
 
-This software development model aims to provide an infrastructure for managers, developers, and clients to effectively and efficiently collaborate in a software development project.
+This software development model aims to provide an infrastructure for managers, developers, and clients to effectively collaborate and organize a software development project.
 
 ## Proposed Model
 
 
 
+*    Project Analysis
+*    Agile Development
+*    Postmortem
 
 
 
