@@ -17,32 +17,31 @@ Software Development Model Proposal - 0
 * Non-technical individuals involved are in the dark on the project's progress
     *    These non-technical individuals are usually the managers
 
-## Purpose
 
+## Purpose
 This software development model aims to provide an infrastructure for managers, developers, and clients to effectively collaborate and organize a software development project.
 
-## Proposed Model
 
+## Proposed Model
 As a guide post, the product is always the focus.
 
 Taking inpiration from Agile software development, this model has 2 prominent stages:
 
-1. **Product Analysis and Planning**
+1. **Envisioning**
 2. **Iterative Development**
 
-### Product Analysis and Planning
 
-This is considered the envisioning stage or ***iteration-0*** of a typical Agile software development approach.
+### Envisioning
+This is the envisioning stage or ***iteration-0*** of a typical Agile software development approach.
 
-The following information must be obtained in this stage:
+In this stage, the following information about the project must be obtained:
 
-* **Motivation** - Motivation/business need behind the product to be developed
-* **Purpose** - The end which the product is supposed to achieve
-* **Scope** - General features of the product
-* **Queue of initial features** - Set of specific features for the product
+* **Motivation** (or Business Need)
+* **Purpose**
+* **Queue of Initial Features**
+
 
 ### Iterative Development
-
 Iterative development stage will cycle while the feature queue is not empty and will generate working software at each iteration. An iteration will typically have the following stages:
 
 1. **Prioritization** - Identify the most important unimplemented feature in queue
