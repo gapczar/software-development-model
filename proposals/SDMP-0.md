@@ -26,6 +26,10 @@ This software development model aims to provide an infrastructure for managers, 
 
 [TODO Guiding Principles?]
 
+1. Every product must have a purpose
+2. Every feature must relate to the product's purpose
+3. 
+
 This model has 2 prominent stages:
 
 1. **Stage 1**
@@ -47,8 +51,8 @@ In this stage, the following information about the project must be obtained:
 ### Stage 2
 This is the iterative development stage which will cycle while the queue of features is not empty. An iteration will typically have the following stages:
 
-1. **Prioritization** - Identify the most important unimplemented feature in queue
-2. **Development** - Design, code, and test the feature
+1. **Prioritization** - Identify the most important unimplemented feature
+2. **Development** - Design, code, and test the feature (Check out XP)
 3. **Retrospective** - Evaluate how the iteration went then adapt (Re-evaluate process, timeline, features, mindset, etc.)
 
 Lather. Rinse. Repeat.
