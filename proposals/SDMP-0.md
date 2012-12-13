@@ -23,13 +23,6 @@ This software development model aims to provide an infrastructure for managers, 
 
 
 ## Proposed Model
-
-[TODO Guiding Principles?]
-
-1. Every product must have a purpose
-2. Every feature must relate to the product's purpose
-3. 
-
 This model has 2 prominent stages:
 
 1. **Stage 1**
